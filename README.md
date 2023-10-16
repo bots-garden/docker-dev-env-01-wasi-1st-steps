@@ -28,7 +28,7 @@ Then:
 7. Once the build finished, Click on the <kbd>Continue</kbd> button
 8. 🎉 and now, you can open your new Dev Environment in **VSCode**
 
-Or you can test it like this: [🌍 Open the ARM version of this Dev Environment directly from GitHub](https://open.docker.com/dashboard/dev-envs?url=https://github.com/bots-garden/docker-dev-env-01-wasi-1st-steps/tree/master)
+Or you can test it like this: [🌍 Open the ARM version of this Dev Environment directly from GitHub](https://open.docker.com/dashboard/dev-envs?url=https://github.com/bots-garden/docker-dev-env-01-wasi-1st-steps/tree/main)
 
 ## Installed tools
 
