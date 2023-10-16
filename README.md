@@ -1,5 +1,5 @@
 # Docker Dev Environment for Webassembly and Golang
-> docker-dev-env-01-wasi-1st-steps
+> docker-dev-env-01-wasi-1st-steps | 🚧 this is a WIP
 
 ## Prerequisites
 > - https://docs.docker.com/desktop/dev-environments/create-dev-env/#prerequisites
