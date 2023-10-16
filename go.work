@@ -1,0 +1,10 @@
+go 1.21.1
+
+use (
+	./01-first-wasm-program
+	./02-hello-world
+	./03-simple-go-plugin
+	./04-ready-to-use-host-functions
+)
+
+// go work sync

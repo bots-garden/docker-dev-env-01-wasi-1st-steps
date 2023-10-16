@@ -1,0 +1,9 @@
+{
+  "recommendations": [
+    "pkief.material-icon-theme",
+    "pkief.material-product-icons",
+    "aaron-bond.better-comments",
+    "ms-azuretools.vscode-docker",
+    "golang.go"
+  ]
+}
